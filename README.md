@@ -1,5 +1,6 @@
 # game
 js로 rpg 게임 만들기
+[https://heerim0223.github.io/game/]
 
 추가해야하는거
 1. 다른 맵으로 이동할 수 있도록 map 배열을 3차원으로 재구성
