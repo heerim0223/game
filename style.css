@@ -1,0 +1,7 @@
+h2 {
+   position: relative;
+   left: 65px;
+}
+canvas {
+   border: 3px solid green;
+}
