@@ -24,11 +24,11 @@
 					<td><button class="menu-icon" id="btn_bag" style="border: 0px; background-color: rgba(0,0,0,0);">💼</button></td>
 					<td><button class="menu-icon" id="btn_set" style="border: 0px; background-color: rgba(0,0,0,0);">⚙️</button></td>
 				</tr>
-				<tr>
-					<td><button class="menu-text" id="btn_doc" style="border: 0px; background-color: rgba(0,0,0,0);">도감</button></td>
-					<td><button class="menu-text" id="btn_mon" style="border: 0px; background-color: rgba(0,0,0,0);">포켓몬</button></td>
-					<td><button class="menu-text" id="btn_bag" style="border: 0px; background-color: rgba(0,0,0,0);">가방</button></td>
-					<td><button class="menu-text" id="btn_set" style="border: 0px; background-color: rgba(0,0,0,0);">설정</button></td>
+				<tr class="menu-text">
+					<td>도감</td>
+					<td>포켓몬</td>
+					<td>가방</td>
+					<td>설정</td>
 				</tr>
 			</table>
 		</div>

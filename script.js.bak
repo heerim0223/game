@@ -243,8 +243,7 @@ document.addEventListener('keydown', function(event) {
         case 'd': // D
             character.move(1, 0); // Move right
             break;
-		case 'e': // Menu
-		case 'Escape':
+		case 'e' || 'Escape': // Menu
 			if(!flag) { // Open Menu
 				modal.classList.add('on');
 				flag = true;

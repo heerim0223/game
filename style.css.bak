@@ -24,7 +24,7 @@ table{
   justify-content:center;
 }
 
-.menu-icon {
+button {
 	font-size: 40px;
 }
 
